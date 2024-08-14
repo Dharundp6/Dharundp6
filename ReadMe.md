@@ -1,7 +1,5 @@
 # 💫 About Me:
-A Passionate Data Science Student <br><br> 🔭 I’m currently working on **iQube**<br> <br> 🌱 I’m currently learning **LangGraph, LLM, AWS**<br><br>⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c4eda68ed08f4be1f7d996c937ed3a2d0b916c65e744c41e528816e69bc5e82b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f66636637666430633631396262383737303635333330373932343039313566332e676966">
+A Passionate Data Science Student <br><br> 🔭 I’m currently working on **iQube**<br> <br> 🌱 I’m currently learning **LangGraph, LLM, AWS**<br><br>⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c4eda68ed08f4be1f7d996c937ed3a2d0b916c65e744c41e528816e69bc5e82b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f66636637666430633631396262383737303635333330373932343039313566332e676966">
 
 
 ## 🌐 Socials:
