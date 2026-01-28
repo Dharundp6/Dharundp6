@@ -100,12 +100,12 @@ class DataScientist:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharundp6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharundp6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharundp6&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharundp6&theme=tokyonight&hide_border=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dharundp6&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Dharundp6&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
