@@ -1,131 +1,64 @@
-<div align="center">
-  
-<!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dharun+Prasanth;Data+Science+Student+%40+UofG;ML+Engineer+%7C+NLP+Enthusiast;Building+RAG+Systems+%26+AI+Apps)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://www.linkedin.com/in/dharun-prasanth-300429211/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Dharundp6&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
-
-</div>
-
----
-
-## 🚀 About Me
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Dharun Prasanth"
-        self.role = "MSc Data Science Student"
-        self.university = "University of Glasgow"
-        self.interests = ["NLP", "RAG Systems", "LLMs", "Computer Vision"]
-        
-    def current_focus(self):
-        return ["LangGraph", "AWS", "Production ML Systems"]
-        
-    def fun_fact(self):
-        return "I build AI systems that actually work in production! 🔧"
-```
-
-- 🔭 Currently working on **iQube** - an intelligent automation platform
-- 🌱 Learning **LangGraph, LLM Fine-tuning, AWS Cloud Architecture**
-- 💼 Previously built production RAG systems at **Wise Work, Bangalore**
-- 📍 Based in **Glasgow, Scotland** 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-
----
-
-## 🏆 GitHub Trophies
+<h1 align="center">Hi, I'm Dharun 👋</h1>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Dharundp6&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+  <b>AI Engineer</b> — I build production LLM systems: agentic workflows, RAG &amp; retrieval that ship to real users.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-liart-three-xy8ag0lp18.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/dharun-prasanth-300429211"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://www.kaggle.com/diversedharun"><b>Kaggle</b></a> &nbsp;·&nbsp;
+  <a href="mailto:dharunjagan009@gmail.com"><b>Email</b></a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+### 🚀 What I build
 
-<details open>
-<summary><b>Languages</b></summary>
-<br>
-  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- 🤖 **Agentic AI &amp; RAG systems in production** at **Grapeworks AI** — multi-agent orchestration, GraphRAG pipelines, and LLM tool-calling shipped for live clients.
+- 🏆 **Top 5 worldwide** (out of thousands of teams) in a Kaggle LLM agentic-retrieval competition — a 12-stage hybrid retrieval pipeline with multi-LLM reranking over a multilingual legal corpus.
+- 📈 Shipped a **RAG document-retrieval system serving 200+ daily users**, lifting match accuracy **~30%** via embedding-based retrieval + vector search.
+- 🎓 **MSc Data Science — University of Glasgow** (Russell Group), expected Distinction.
 
-</details>
+### 🔭 Currently
 
-<details open>
-<summary><b>ML / AI</b></summary>
-<br>
-  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+Building multi-agent automation &amp; GraphRAG products at **Grapeworks AI** · going deeper on **LangGraph, LLM fine-tuning (LoRA), retrieval/reranking, and distributed training**.
 
-</details>
+### 🧰 Tech I reach for
 
-<details open>
-<summary><b>Web & Databases</b></summary>
-<br>
+**AI / LLM**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Build &amp; Ship**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-</details>
+**Data &amp; Cloud**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
 
-<details open>
-<summary><b>Cloud & DevOps</b></summary>
-<br>
+### 📌 Featured work
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharundp6&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharundp6&theme=tokyonight&hide_border=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Dharundp6&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharundp6/Dharundp6/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharundp6/Dharundp6/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Dharundp6/Dharundp6/output/github-contribution-grid-snake.svg" />
-</picture>
+| Project | What it is |
+|---|---|
+| 🏆 **[LLM Agentic Legal IR](https://github.com/Dharundp6/LLM_agentic)** | **Top-5 worldwide** Kaggle solution — 12-stage hybrid retrieval + multi-LLM reranking on a Swiss legal corpus |
+| 💹 **[RAG for Complex Data](https://github.com/Dharundp6/RAG_for_Complex_Data)** | RAG-powered financial analysis over complex, multi-source documents |
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
 
----
+![Dharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharundp6&show_icons=true&hide_border=true&count_private=true&theme=transparent)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharundp6&layout=compact&hide_border=true&theme=transparent&langs_count=6)
 
-<div align="center">
-  <b>Thanks for visiting! Let's connect and build something amazing together 🚀</b>
 </div>
