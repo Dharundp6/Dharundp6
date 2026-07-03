@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dharun 👋</h1>
 
 <p align="center">
-  <b>AI Engineer</b> — I build production LLM systems: agentic workflows, RAG &amp; retrieval that ship to real users.
+  <b>AI Engineer</b> building production LLM systems: agentic workflows, RAG, and retrieval that ship to real users.
 </p>
 
 <p align="center">
@@ -15,14 +15,14 @@
 
 ### 🚀 What I build
 
-- 🤖 **Agentic AI &amp; RAG systems in production** at **Grapeworks AI** — multi-agent orchestration, GraphRAG pipelines, and LLM tool-calling shipped for live clients.
-- 🏆 **Top 5 worldwide** (out of thousands of teams) in a Kaggle LLM agentic-retrieval competition — a 12-stage hybrid retrieval pipeline with multi-LLM reranking over a multilingual legal corpus.
-- 📈 Shipped a **RAG document-retrieval system serving 200+ daily users**, lifting match accuracy **~30%** via embedding-based retrieval + vector search.
-- 🎓 **MSc Data Science — University of Glasgow** (Russell Group), expected Distinction.
+- 🤖 **Agentic AI and RAG systems in production** at **Grapeworks AI**: multi-agent orchestration, GraphRAG pipelines, and LLM tool-calling shipped for live clients.
+- 🏆 **Top 5 worldwide** out of thousands of teams in a Kaggle LLM agentic-retrieval competition, built on a 12-stage hybrid retrieval pipeline with multi-LLM reranking over a multilingual legal corpus.
+- 📈 Shipped a **RAG document-retrieval system serving 200+ daily users**, lifting match accuracy roughly **30%** with embedding-based retrieval and vector search.
+- 🎓 **MSc Data Science, University of Glasgow** (Russell Group), expected Distinction.
 
 ### 🔭 Currently
 
-Building multi-agent automation &amp; GraphRAG products at **Grapeworks AI** · going deeper on **LangGraph, LLM fine-tuning (LoRA), retrieval/reranking, and distributed training**.
+Building multi-agent automation and GraphRAG products at **Grapeworks AI**, going deeper on **LangGraph, LLM fine-tuning (LoRA), retrieval and reranking, and distributed training**.
 
 ### 🧰 Tech I reach for
 
@@ -38,7 +38,7 @@ Building multi-agent automation &amp; GraphRAG products at **Grapeworks AI** · 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 **Data &amp; Cloud**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -51,14 +51,15 @@ Building multi-agent automation &amp; GraphRAG products at **Grapeworks AI** · 
 
 | Project | What it is |
 |---|---|
-| 🏆 **[LLM Agentic Legal IR](https://github.com/Dharundp6/LLM_agentic)** | **Top-5 worldwide** Kaggle solution — 12-stage hybrid retrieval + multi-LLM reranking on a Swiss legal corpus |
+| 🏆 **[LLM Agentic Legal IR](https://github.com/Dharundp6/LLM_agentic)** | **Top-5 worldwide** Kaggle solution: a 12-stage hybrid retrieval pipeline with multi-LLM reranking on a Swiss legal corpus |
 | 💹 **[RAG for Complex Data](https://github.com/Dharundp6/RAG_for_Complex_Data)** | RAG-powered financial analysis over complex, multi-source documents |
 
 ---
 
 <div align="center">
-
-![Dharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharundp6&show_icons=true&hide_border=true&count_private=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharundp6&layout=compact&hide_border=true&theme=transparent&langs_count=6)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharundp6/Dharundp6/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharundp6/Dharundp6/output/github-contribution-grid-snake.svg">
+    <img alt="Dharun's contribution graph as a snake game" src="https://raw.githubusercontent.com/Dharundp6/Dharundp6/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
