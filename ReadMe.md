@@ -53,12 +53,23 @@ Building multi-agent automation and GraphRAG products at **Grapeworks AI**, goin
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
 
-### 📌 Featured work
+### 📌 Featured projects
 
-| Project | What it is |
-|---|---|
-| 🏆 **[LLM Agentic Legal IR](https://github.com/Dharundp6/LLM_agentic)** | **Top-5 worldwide** Kaggle solution: a 12-stage hybrid retrieval pipeline with multi-LLM reranking on a Swiss legal corpus |
-| 💹 **[RAG for Complex Data](https://github.com/Dharundp6/RAG_for_Complex_Data)** | RAG-powered financial analysis over complex, multi-source documents |
+**🏆 [LLM Agentic Legal Retrieval](https://github.com/Dharundp6/LLM_agentic)** &nbsp; ![Kaggle Top 5 Worldwide](https://img.shields.io/badge/Kaggle-Top_5_Worldwide-FFD700?style=flat&logo=kaggle&logoColor=black)
+
+Cross-lingual Swiss legal citation retrieval, ranked in the **top 5 of thousands of teams**. A 12-stage hybrid pipeline fusing BM25, dense embeddings, and graph co-citation, topped with a cross-encoder reranker and a multi-LLM agentic voting layer.
+<br>`Python` &nbsp;·&nbsp; `PyTorch` &nbsp;·&nbsp; `FAISS` &nbsp;·&nbsp; `BGE-M3` &nbsp;·&nbsp; `Qwen2.5` &nbsp;·&nbsp; `DeepSeek`
+
+<br>
+
+**💹 [RAG for Complex Financial Data](https://github.com/Dharundp6/RAG_for_Complex_Data)** &nbsp; ![FinTech RAG](https://img.shields.io/badge/Domain-FinTech_RAG-1C3C3C?style=flat)
+
+Retrieval-Augmented Generation over complex, multi-source financial documents, with recursive validation loops that keep numerical KPI extraction accurate.
+<br>`Python` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `Vector Search` &nbsp;·&nbsp; `Embeddings`
+
+<br>
+
+> 🔗 More work, including production systems built at Grapeworks AI, on my **[portfolio](https://portfolio-liart-three-xy8ag0lp18.vercel.app)**.
 
 ---
 
