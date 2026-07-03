@@ -1,14 +1,20 @@
 <h1 align="center">Hi, I'm Dharun 👋</h1>
 
 <p align="center">
-  <b>AI Engineer</b> building production LLM systems: agentic workflows, RAG, and retrieval that ship to real users.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AA0F7&center=true&vCenter=true&width=680&lines=AI+Engineer+shipping+production+LLM+systems;Agentic+workflows%2C+RAG+%26+retrieval;Top-5+worldwide+Kaggle+%7C+MSc+Data+Science+%40+Glasgow" alt="What I build" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-liart-three-xy8ag0lp18.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/dharun-prasanth-300429211"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://www.kaggle.com/diversedharun"><b>Kaggle</b></a> &nbsp;·&nbsp;
-  <a href="mailto:dharunjagan009@gmail.com"><b>Email</b></a>
+  <a href="https://portfolio-liart-three-xy8ag0lp18.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/dharun-prasanth-300429211"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/diversedharun"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://github.com/Dharundp6"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dharundp6&label=Profile%20views&color=6aa0f7&style=flat" alt="Profile views" />
 </p>
 
 ---
